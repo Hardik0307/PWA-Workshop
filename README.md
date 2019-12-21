@@ -89,3 +89,10 @@ evt.respondWith(
         })
 );
 ```
+# Fourth step
+* Add install js
+```
+<script src="/scripts/install.js"></script>
+```
+
+# Hurray :call_me_hand:	
